@@ -1,0 +1,31 @@
+Project name : LockedMe.com
+
+Projects's capabilities
+  A user can do following operations:
+    1. View the list of all the files present in root directory in ascending order
+    2. Add a new file to root directory
+    3. Delete a specific file
+    4. Search for specific file
+  
+ SPRINT
+  Product Backlog:
+    1. Set up github account and repositories
+    2. Create main menu and sub menu
+    3. Add creating new file functionality
+    4. Add deleting file functionality
+    5. Add searching file functionality
+    6. Add creating list of all file functionality
+    7. Handling all exceptions
+    8. Testing all modules
+    
+    SPRINT 1 (task completed): 1,2,3,4,5
+    SPRINT 2 (task completed): 6,7
+    SPRINT 3 (task completed): 8
+    
+JAVA CONCEPTS USED:
+  1. File Handling
+  2. Exception Handling
+  3. Input Strem
+  
+  SORING: Array.sort()
+  SEARCHING: file.exit()
